@@ -4,7 +4,7 @@
   "description": "A custom CKEditor to Clutch 1x5 Portal Esports.",
   "version": "0.0.2",
   "license": "SEE LICENSE IN LICENSE.md",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "@ckeditor/ckeditor5-adapter-ckfinder": "^24.0.0",
     "@ckeditor/ckeditor5-autoformat": "^24.0.0",
